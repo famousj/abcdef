@@ -4,7 +4,7 @@ Why SICP?  Well, [this guy’s writeup](https://archive.is/uTOol#selection-839.0
 
 Here’s the book’s [online home](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
-Here's an [online version of the book](http://sarabander.github.io/sicp/index.xhtml) that looks a bit less like the website for Space Jam.
+Here's an [online version of the book](https://github.com/sarabander/sicp) that looks a bit less like the website for Space Jam.
 
 Here’s a class from [MIT courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
