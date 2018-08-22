@@ -6,6 +6,8 @@ Here’s the book’s [online home](https://mitpress.mit.edu/sites/default/files
 
 Here's an [online version of the book](https://github.com/sarabander/sicp) that looks a bit less like the website for Space Jam.
 
+If you're anything like J, you like reading on paper.  Here's a [good printable version](https://github.com/sarabander/sicp-pdf) of the above.
+
 Here’s a class from [MIT courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 
 In terms of cadence for working through the book:
